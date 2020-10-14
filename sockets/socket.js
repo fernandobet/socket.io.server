@@ -11,6 +11,7 @@ bands.addBand(new Band('AC/DC'));
 bands.addBand(new Band('The beatles'));
 bands.addBand(new Band('Queen'));
 bands.addBand(new Band('Babasonicos'));
+bands.addBand(new Band('Babasonicos'));
 
 console.log(bands);
 
